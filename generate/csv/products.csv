@@ -1,46 +1,46 @@
-"supplier_ids","_id","product_code","product_name","description","standard_cost","list_price","reorder_level","target_level","quantity_per_unit","discontinued","minimum_reorder_quantity","category","attachments"
-"4","1","NWTB-1","Northwind Traders Chai",,"13.5000","18.0000","10","40","10 boxes x 20 bags","0","10","Beverages",""
-"10","3","NWTCO-3","Northwind Traders Syrup",,"7.5000","10.0000","25","100","12 - 550 ml bottles","0","25","Condiments",""
-"10","4","NWTCO-4","Northwind Traders Cajun Seasoning",,"16.5000","22.0000","10","40","48 - 6 oz jars","0","10","Condiments",""
-"10","5","NWTO-5","Northwind Traders Olive Oil",,"16.0125","21.3500","10","40","36 boxes","0","10","Oil",""
-"2;6","6","NWTJP-6","Northwind Traders Boysenberry Spread",,"18.7500","25.0000","25","100","12 - 8 oz jars","0","25","Jams, Preserves",""
-"2","7","NWTDFN-7","Northwind Traders Dried Pears",,"22.5000","30.0000","10","40","12 - 1 lb pkgs.","0","10","Dried Fruit & Nuts",""
-"8","8","NWTS-8","Northwind Traders Curry Sauce",,"30.0000","40.0000","10","40","12 - 12 oz jars","0","10","Sauces",""
-"2;6","14","NWTDFN-14","Northwind Traders Walnuts",,"17.4375","23.2500","10","40","40 - 100 g pkgs.","0","10","Dried Fruit & Nuts",""
-"6","17","NWTCFV-17","Northwind Traders Fruit Cocktail",,"29.2500","39.0000","10","40","15.25 OZ","0","10","Canned Fruit & Vegetables",""
-"1","19","NWTBGM-19","Northwind Traders Chocolate Biscuits Mix",,"6.9000","9.2000","5","20","10 boxes x 12 pieces","0","5","Baked Goods & Mixes",""
-"2;6","20","NWTJP-6","Northwind Traders Marmalade",,"60.7500","81.0000","10","40","30 gift boxes","0","10","Jams, Preserves",""
-"1","21","NWTBGM-21","Northwind Traders Scones",,"7.5000","10.0000","5","20","24 pkgs. x 4 pieces","0","5","Baked Goods & Mixes",""
-"4","34","NWTB-34","Northwind Traders Beer",,"10.5000","14.0000","15","60","24 - 12 oz bottles","0","15","Beverages",""
-"7","40","NWTCM-40","Northwind Traders Crab Meat",,"13.8000","18.4000","30","120","24 - 4 oz tins","0","30","Canned Meat",""
-"6","41","NWTSO-41","Northwind Traders Clam Chowder",,"7.2375","9.6500","10","40","12 - 12 oz cans","0","10","Soups",""
-"3;4","43","NWTB-43","Northwind Traders Coffee",,"34.5000","46.0000","25","100","16 - 500 g tins","0","25","Beverages",""
-"10","48","NWTCA-48","Northwind Traders Chocolate",,"9.5625","12.7500","25","100","10 pkgs","0","25","Candy",""
-"2","51","NWTDFN-51","Northwind Traders Dried Apples",,"39.7500","53.0000","10","40","50 - 300 g pkgs.","0","10","Dried Fruit & Nuts",""
-"1","52","NWTG-52","Northwind Traders Long Grain Rice",,"5.2500","7.0000","25","100","16 - 2 kg boxes","0","25","Grains",""
-"1","56","NWTP-56","Northwind Traders Gnocchi",,"28.5000","38.0000","30","120","24 - 250 g pkgs.","0","30","Pasta",""
-"1","57","NWTP-57","Northwind Traders Ravioli",,"14.6250","19.5000","20","80","24 - 250 g pkgs.","0","20","Pasta",""
-"8","65","NWTS-65","Northwind Traders Hot Pepper Sauce",,"15.7875","21.0500","10","40","32 - 8 oz bottles","0","10","Sauces",""
-"8","66","NWTS-66","Northwind Traders Tomato Sauce",,"12.7500","17.0000","20","80","24 - 8 oz jars","0","20","Sauces",""
-"5","72","NWTD-72","Northwind Traders Mozzarella",,"26.1000","34.8000","10","40","24 - 200 g pkgs.","0","10","Dairy products",""
-"2;6","74","NWTDFN-74","Northwind Traders Almonds",,"7.5000","10.0000","5","20","5 kg pkg.","0","5","Dried Fruit & Nuts",""
-"10","77","NWTCO-77","Northwind Traders Mustard",,"9.7500","13.0000","15","60","12 boxes","0","15","Condiments",""
-"2","80","NWTDFN-80","Northwind Traders Dried Plums",,"3.0000","3.5000","50","75","1 lb bag","0","25","Dried Fruit & Nuts",""
-"3","81","NWTB-81","Northwind Traders Green Tea",,"2.0000","2.9900","100","125","20 bags per box","0","25","Beverages",""
-"1","82","NWTC-82","Northwind Traders Granola",,"2.0000","4.0000","20","100",,"0",,"Cereal",""
-"9","83","NWTCS-83","Northwind Traders Potato Chips",,"0.5000","1.8000","30","200",,"0",,"Chips, Snacks",""
-"1","85","NWTBGM-85","Northwind Traders Brownie Mix",,"9.0000","12.4900","10","20","3 boxes","0","5","Baked Goods & Mixes",""
-"1","86","NWTBGM-86","Northwind Traders Cake Mix",,"10.5000","15.9900","10","20","4 boxes","0","5","Baked Goods & Mixes",""
-"7","87","NWTB-87","Northwind Traders Tea",,"2.0000","4.0000","20","50","100 count per box","0",,"Beverages",""
-"6","88","NWTCFV-88","Northwind Traders Pears",,"1.0000","1.3000","10","40","15.25 OZ","0",,"Canned Fruit & Vegetables",""
-"6","89","NWTCFV-89","Northwind Traders Peaches",,"1.0000","1.5000","10","40","15.25 OZ","0",,"Canned Fruit & Vegetables",""
-"6","90","NWTCFV-90","Northwind Traders Pineapple",,"1.0000","1.8000","10","40","15.25 OZ","0",,"Canned Fruit & Vegetables",""
-"6","91","NWTCFV-91","Northwind Traders Cherry Pie Filling",,"1.0000","2.0000","10","40","15.25 OZ","0",,"Canned Fruit & Vegetables",""
-"6","92","NWTCFV-92","Northwind Traders Green Beans",,"1.0000","1.2000","10","40","14.5 OZ","0",,"Canned Fruit & Vegetables",""
-"6","93","NWTCFV-93","Northwind Traders Corn",,"1.0000","1.2000","10","40","14.5 OZ","0",,"Canned Fruit & Vegetables",""
-"6","94","NWTCFV-94","Northwind Traders Peas",,"1.0000","1.5000","10","40","14.5 OZ","0",,"Canned Fruit & Vegetables",""
-"7","95","NWTCM-95","Northwind Traders Tuna Fish",,"0.5000","2.0000","30","50","5 oz","0",,"Canned Meat",""
-"7","96","NWTCM-96","Northwind Traders Smoked Salmon",,"2.0000","4.0000","30","50","5 oz","0",,"Canned Meat",""
-"1","97","NWTC-82","Northwind Traders Hot Cereal",,"3.0000","5.0000","50","200",,"0",,"Cereal",""
-"6","98","NWTSO-98","Northwind Traders Vegetable Soup",,"1.0000","1.8900","100","200",,"0",,"Soups",""
-"6","99","NWTSO-99","Northwind Traders Chicken Soup",,"1.0000","1.9500","100","200",,"0",,"Soups",""
+_id,category,discontinued,id,list_price,minimum_reorder_quantity,product_code,product_name,quantity_per_unit,reorder_level,standard_cost,supplier_ids,target_level
+63dd0f7807d5cbf00b6717d8,Oil,false,5,21.35,10,NWTO-5,Northwind Traders Olive Oil,36 boxes,10,16.0125,[10],40
+63dd0f7807d5cbf00b6717d9,Condiments,false,3,10,25,NWTCO-3,Northwind Traders Syrup,12 - 550 ml bottles,25,7.5,[10],100
+63dd0f7807d5cbf00b6717da,"Jams, Preserves",false,6,25,25,NWTJP-6,Northwind Traders Boysenberry Spread,12 - 8 oz jars,25,18.75,"[2,6]",100
+63dd0f7807d5cbf00b6717db,Dried Fruit & Nuts,false,7,30,10,NWTDFN-7,Northwind Traders Dried Pears,12 - 1 lb pkgs.,10,22.5,[2],40
+63dd0f7807d5cbf00b6717dc,Sauces,false,8,40,10,NWTS-8,Northwind Traders Curry Sauce,12 - 12 oz jars,10,30,[8],40
+63dd0f7807d5cbf00b6717dd,Dried Fruit & Nuts,false,14,23.25,10,NWTDFN-14,Northwind Traders Walnuts,40 - 100 g pkgs.,10,17.4375,"[2,6]",40
+63dd0f7807d5cbf00b6717de,Canned Fruit & Vegetables,false,17,39,10,NWTCFV-17,Northwind Traders Fruit Cocktail,15.25 OZ,10,29.25,[6],40
+63dd0f7807d5cbf00b6717df,Beverages,false,1,18,10,NWTB-1,Northwind Traders Chai,10 boxes x 20 bags,10,13.5,[4],40
+63dd0f7807d5cbf00b6717e0,Condiments,false,4,22,10,NWTCO-4,Northwind Traders Cajun Seasoning,48 - 6 oz jars,10,16.5,[10],40
+63dd0f7807d5cbf00b6717e1,Baked Goods & Mixes,false,19,9.2,5,NWTBGM-19,Northwind Traders Chocolate Biscuits Mix,10 boxes x 12 pieces,5,6.9,[1],20
+63dd0f7807d5cbf00b6717e2,"Jams, Preserves",false,20,81,10,NWTJP-6,Northwind Traders Marmalade,30 gift boxes,10,60.75,"[2,6]",40
+63dd0f7807d5cbf00b6717e3,Baked Goods & Mixes,false,21,10,5,NWTBGM-21,Northwind Traders Scones,24 pkgs. x 4 pieces,5,7.5,[1],20
+63dd0f7807d5cbf00b6717e4,Beverages,false,34,14,15,NWTB-34,Northwind Traders Beer,24 - 12 oz bottles,15,10.5,[4],60
+63dd0f7807d5cbf00b6717e5,Canned Meat,false,40,18.4,30,NWTCM-40,Northwind Traders Crab Meat,24 - 4 oz tins,30,13.8,[7],120
+63dd0f7807d5cbf00b6717e6,Soups,false,41,9.65,10,NWTSO-41,Northwind Traders Clam Chowder,12 - 12 oz cans,10,7.2375,[6],40
+63dd0f7807d5cbf00b6717e7,Beverages,false,43,46,25,NWTB-43,Northwind Traders Coffee,16 - 500 g tins,25,34.5,"[3,4]",100
+63dd0f7807d5cbf00b6717e8,Candy,false,48,12.75,25,NWTCA-48,Northwind Traders Chocolate,10 pkgs,25,9.5625,[10],100
+63dd0f7807d5cbf00b6717e9,Dried Fruit & Nuts,false,51,53,10,NWTDFN-51,Northwind Traders Dried Apples,50 - 300 g pkgs.,10,39.75,[2],40
+63dd0f7807d5cbf00b6717ea,Grains,false,52,7,25,NWTG-52,Northwind Traders Long Grain Rice,16 - 2 kg boxes,25,5.25,[1],100
+63dd0f7807d5cbf00b6717eb,Pasta,false,56,38,30,NWTP-56,Northwind Traders Gnocchi,24 - 250 g pkgs.,30,28.5,[1],120
+63dd0f7807d5cbf00b6717ec,Pasta,false,57,19.5,20,NWTP-57,Northwind Traders Ravioli,24 - 250 g pkgs.,20,14.625,[1],80
+63dd0f7807d5cbf00b6717ed,Sauces,false,65,21.05,10,NWTS-65,Northwind Traders Hot Pepper Sauce,32 - 8 oz bottles,10,15.7875,[8],40
+63dd0f7807d5cbf00b6717ee,Dairy products,false,72,34.8,10,NWTD-72,Northwind Traders Mozzarella,24 - 200 g pkgs.,10,26.1,[5],40
+63dd0f7807d5cbf00b6717ef,Sauces,false,66,17,20,NWTS-66,Northwind Traders Tomato Sauce,24 - 8 oz jars,20,12.75,[8],80
+63dd0f7807d5cbf00b6717f0,Dried Fruit & Nuts,false,74,10,5,NWTDFN-74,Northwind Traders Almonds,5 kg pkg.,5,7.5,"[2,6]",20
+63dd0f7807d5cbf00b6717f1,Condiments,false,77,13,15,NWTCO-77,Northwind Traders Mustard,12 boxes,15,9.75,[10],60
+63dd0f7807d5cbf00b6717f2,Dried Fruit & Nuts,false,80,3.5,25,NWTDFN-80,Northwind Traders Dried Plums,1 lb bag,50,3,[2],75
+63dd0f7807d5cbf00b6717f3,Beverages,false,81,2.99,25,NWTB-81,Northwind Traders Green Tea,20 bags per box,100,2,[3],125
+63dd0f7807d5cbf00b6717f4,Cereal,false,82,4,,NWTC-82,Northwind Traders Granola,,20,2,[1],100
+63dd0f7807d5cbf00b6717f5,"Chips, Snacks",false,83,1.8,,NWTCS-83,Northwind Traders Potato Chips,,30,0.5,[9],200
+63dd0f7807d5cbf00b6717f6,Baked Goods & Mixes,false,85,12.49,5,NWTBGM-85,Northwind Traders Brownie Mix,3 boxes,10,9,[1],20
+63dd0f7807d5cbf00b6717f7,Baked Goods & Mixes,false,86,15.99,5,NWTBGM-86,Northwind Traders Cake Mix,4 boxes,10,10.5,[1],20
+63dd0f7807d5cbf00b6717f8,Beverages,false,87,4,,NWTB-87,Northwind Traders Tea,100 count per box,20,2,[7],50
+63dd0f7807d5cbf00b6717f9,Canned Fruit & Vegetables,false,88,1.3,,NWTCFV-88,Northwind Traders Pears,15.25 OZ,10,1,[6],40
+63dd0f7807d5cbf00b6717fa,Canned Fruit & Vegetables,false,89,1.5,,NWTCFV-89,Northwind Traders Peaches,15.25 OZ,10,1,[6],40
+63dd0f7807d5cbf00b6717fb,Canned Fruit & Vegetables,false,90,1.8,,NWTCFV-90,Northwind Traders Pineapple,15.25 OZ,10,1,[6],40
+63dd0f7807d5cbf00b6717fc,Canned Fruit & Vegetables,false,92,1.2,,NWTCFV-92,Northwind Traders Green Beans,14.5 OZ,10,1,[6],40
+63dd0f7807d5cbf00b6717fd,Canned Meat,false,95,2,,NWTCM-95,Northwind Traders Tuna Fish,5 oz,30,0.5,[7],50
+63dd0f7807d5cbf00b6717fe,Canned Fruit & Vegetables,false,93,1.2,,NWTCFV-93,Northwind Traders Corn,14.5 OZ,10,1,[6],40
+63dd0f7807d5cbf00b6717ff,Cereal,false,97,5,,NWTC-82,Northwind Traders Hot Cereal,,50,3,[1],200
+63dd0f7807d5cbf00b671800,Canned Fruit & Vegetables,false,91,2,,NWTCFV-91,Northwind Traders Cherry Pie Filling,15.25 OZ,10,1,[6],40
+63dd0f7807d5cbf00b671801,Soups,false,98,1.89,,NWTSO-98,Northwind Traders Vegetable Soup,,100,1,[6],200
+63dd0f7807d5cbf00b671802,Soups,false,99,1.95,,NWTSO-99,Northwind Traders Chicken Soup,,100,1,[6],200
+63dd0f7807d5cbf00b671803,Canned Fruit & Vegetables,false,94,1.5,,NWTCFV-94,Northwind Traders Peas,14.5 OZ,10,1,[6],40
+63dd0f7807d5cbf00b671804,Canned Meat,false,96,4,,NWTCM-96,Northwind Traders Smoked Salmon,5 oz,30,2,[7],50

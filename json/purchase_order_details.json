@@ -1,0 +1,556 @@
+[{
+  "id": 238,
+  "purchase_order_id": 90,
+  "product_id": 1,
+  "quantity": 40,
+  "unit_cost": 14,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 59
+},{
+  "id": 239,
+  "purchase_order_id": 91,
+  "product_id": 3,
+  "quantity": 100,
+  "unit_cost": 8,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 54
+},{
+  "id": 240,
+  "purchase_order_id": 91,
+  "product_id": 4,
+  "quantity": 40,
+  "unit_cost": 16,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 55
+},{
+  "id": 241,
+  "purchase_order_id": 91,
+  "product_id": 5,
+  "quantity": 40,
+  "unit_cost": 16,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 56
+},{
+  "id": 242,
+  "purchase_order_id": 92,
+  "product_id": 6,
+  "quantity": 100,
+  "unit_cost": 19,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 40
+},{
+  "id": 243,
+  "purchase_order_id": 92,
+  "product_id": 7,
+  "quantity": 40,
+  "unit_cost": 22,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 41
+},{
+  "id": 244,
+  "purchase_order_id": 92,
+  "product_id": 8,
+  "quantity": 40,
+  "unit_cost": 30,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 42
+},{
+  "id": 245,
+  "purchase_order_id": 92,
+  "product_id": 14,
+  "quantity": 40,
+  "unit_cost": 17,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 43
+},{
+  "id": 246,
+  "purchase_order_id": 92,
+  "product_id": 17,
+  "quantity": 40,
+  "unit_cost": 29,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 44
+},{
+  "id": 247,
+  "purchase_order_id": 92,
+  "product_id": 19,
+  "quantity": 20,
+  "unit_cost": 7,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 45
+},{
+  "id": 248,
+  "purchase_order_id": 92,
+  "product_id": 20,
+  "quantity": 40,
+  "unit_cost": 61,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 46
+},{
+  "id": 249,
+  "purchase_order_id": 92,
+  "product_id": 21,
+  "quantity": 20,
+  "unit_cost": 8,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 47
+},{
+  "id": 250,
+  "purchase_order_id": 90,
+  "product_id": 34,
+  "quantity": 60,
+  "unit_cost": 10,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 60
+},{
+  "id": 251,
+  "purchase_order_id": 92,
+  "product_id": 40,
+  "quantity": 120,
+  "unit_cost": 14,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 48
+},{
+  "id": 252,
+  "purchase_order_id": 92,
+  "product_id": 41,
+  "quantity": 40,
+  "unit_cost": 7,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 49
+},{
+  "id": 253,
+  "purchase_order_id": 90,
+  "product_id": 43,
+  "quantity": 100,
+  "unit_cost": 34,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 61
+},{
+  "id": 254,
+  "purchase_order_id": 92,
+  "product_id": 48,
+  "quantity": 100,
+  "unit_cost": 10,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 50
+},{
+  "id": 255,
+  "purchase_order_id": 92,
+  "product_id": 51,
+  "quantity": 40,
+  "unit_cost": 40,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 51
+},{
+  "id": 256,
+  "purchase_order_id": 93,
+  "product_id": 52,
+  "quantity": 100,
+  "unit_cost": 5,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 37
+},{
+  "id": 257,
+  "purchase_order_id": 93,
+  "product_id": 56,
+  "quantity": 120,
+  "unit_cost": 28,
+  "date_received": {
+    "$date": {
+      "$numberLong": "1137884400000"
+    }
+  },
+  "posted_to_inventory": true,
+  "inventory_id": 38
+},{
+  "id": 258,
+  "purchase_order_id": 93,
+  "product_id": 57,
+  "quantity": 80,
+  "unit_cost": 15,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 39
+},{
+  "id": 259,
+  "purchase_order_id": 91,
+  "product_id": 65,
+  "quantity": 40,
+  "unit_cost": 16,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 57
+},{
+  "id": 260,
+  "purchase_order_id": 91,
+  "product_id": 66,
+  "quantity": 80,
+  "unit_cost": 13,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 58
+},{
+  "id": 261,
+  "purchase_order_id": 94,
+  "product_id": 72,
+  "quantity": 40,
+  "unit_cost": 26,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 36
+},{
+  "id": 262,
+  "purchase_order_id": 92,
+  "product_id": 74,
+  "quantity": 20,
+  "unit_cost": 8,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 52
+},{
+  "id": 263,
+  "purchase_order_id": 92,
+  "product_id": 77,
+  "quantity": 60,
+  "unit_cost": 10,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 53
+},{
+  "id": 264,
+  "purchase_order_id": 95,
+  "product_id": 80,
+  "quantity": 75,
+  "unit_cost": 3,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 35
+},{
+  "id": 265,
+  "purchase_order_id": 90,
+  "product_id": 81,
+  "quantity": 125,
+  "unit_cost": 2,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 62
+},{
+  "id": 266,
+  "purchase_order_id": 96,
+  "product_id": 34,
+  "quantity": 100,
+  "unit_cost": 10,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 82
+},{
+  "id": 267,
+  "purchase_order_id": 97,
+  "product_id": 19,
+  "quantity": 30,
+  "unit_cost": 7,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 80
+},{
+  "id": 268,
+  "purchase_order_id": 98,
+  "product_id": 41,
+  "quantity": 200,
+  "unit_cost": 7,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 78
+},{
+  "id": 269,
+  "purchase_order_id": 99,
+  "product_id": 43,
+  "quantity": 300,
+  "unit_cost": 34,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 76
+},{
+  "id": 270,
+  "purchase_order_id": 100,
+  "product_id": 48,
+  "quantity": 100,
+  "unit_cost": 10,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 74
+},{
+  "id": 271,
+  "purchase_order_id": 101,
+  "product_id": 81,
+  "quantity": 200,
+  "unit_cost": 2,
+  "date_received": "01/22/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 72
+},{
+  "id": 272,
+  "purchase_order_id": 102,
+  "product_id": 43,
+  "quantity": 300,
+  "unit_cost": 34,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 273,
+  "purchase_order_id": 103,
+  "product_id": 19,
+  "quantity": 10,
+  "unit_cost": 7,
+  "date_received": "04/17/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 111
+},{
+  "id": 274,
+  "purchase_order_id": 104,
+  "product_id": 41,
+  "quantity": 50,
+  "unit_cost": 7,
+  "date_received": "04/06/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 115
+},{
+  "id": 275,
+  "purchase_order_id": 105,
+  "product_id": 57,
+  "quantity": 100,
+  "unit_cost": 15,
+  "date_received": "04/05/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 100
+},{
+  "id": 276,
+  "purchase_order_id": 106,
+  "product_id": 72,
+  "quantity": 50,
+  "unit_cost": 26,
+  "date_received": "04/05/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 113
+},{
+  "id": 277,
+  "purchase_order_id": 107,
+  "product_id": 34,
+  "quantity": 300,
+  "unit_cost": 10,
+  "date_received": "04/05/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 107
+},{
+  "id": 278,
+  "purchase_order_id": 108,
+  "product_id": 8,
+  "quantity": 25,
+  "unit_cost": 30,
+  "date_received": "04/05/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 105
+},{
+  "id": 279,
+  "purchase_order_id": 109,
+  "product_id": 19,
+  "quantity": 25,
+  "unit_cost": 7,
+  "date_received": "04/05/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 109
+},{
+  "id": 280,
+  "purchase_order_id": 110,
+  "product_id": 43,
+  "quantity": 250,
+  "unit_cost": 34,
+  "date_received": "04/10/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 103
+},{
+  "id": 281,
+  "purchase_order_id": 90,
+  "product_id": 1,
+  "quantity": 40,
+  "unit_cost": 14,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 282,
+  "purchase_order_id": 92,
+  "product_id": 19,
+  "quantity": 20,
+  "unit_cost": 7,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 283,
+  "purchase_order_id": 111,
+  "product_id": 34,
+  "quantity": 50,
+  "unit_cost": 10,
+  "date_received": "04/04/2006",
+  "posted_to_inventory": true,
+  "inventory_id": 102
+},{
+  "id": 285,
+  "purchase_order_id": 91,
+  "product_id": 3,
+  "quantity": 50,
+  "unit_cost": 8,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 286,
+  "purchase_order_id": 91,
+  "product_id": 4,
+  "quantity": 40,
+  "unit_cost": 16,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 288,
+  "purchase_order_id": 140,
+  "product_id": 85,
+  "quantity": 10,
+  "unit_cost": 9,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 289,
+  "purchase_order_id": 141,
+  "product_id": 6,
+  "quantity": 10,
+  "unit_cost": 18.75,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 290,
+  "purchase_order_id": 142,
+  "product_id": 1,
+  "quantity": 1,
+  "unit_cost": 13.5,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 292,
+  "purchase_order_id": 146,
+  "product_id": 20,
+  "quantity": 40,
+  "unit_cost": 60,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 293,
+  "purchase_order_id": 146,
+  "product_id": 51,
+  "quantity": 40,
+  "unit_cost": 39,
+  "date_received": "",
+  "posted_to_inventory": false
+},{
+  "id": 294,
+  "purchase_order_id": 147,
+  "product_id": 40,
+  "quantity": 120,
+  "unit_cost": 13,
+  "date_received": "",
+  "posted_to_inventory": false
+}]

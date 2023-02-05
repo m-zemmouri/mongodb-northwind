@@ -1,5 +1,5 @@
-"_id","status_name"
-"0","New"
-"1","Invoiced"
-"2","Shipped"
-"3","Closed"
+_id,id,status_name
+63dd0f2107d5cbf00b6717cb,0,New
+63dd0f2107d5cbf00b6717cc,2,Shipped
+63dd0f2107d5cbf00b6717cd,3,Closed
+63dd0f2107d5cbf00b6717ce,1,Invoiced

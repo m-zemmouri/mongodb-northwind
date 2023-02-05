@@ -1,11 +1,11 @@
-"_id","company","last_name","first_name","email_address","job_title","business_phone","home_phone","mobile_phone","fax_number","address","city","state_province","zip_postal_code","country_region","web_page","notes","attachments"
-"1","Supplier A","Andersen","Elizabeth A.",,"Sales Manager",,,,,,,,,,,,""
-"2","Supplier B","Weiler","Cornelia",,"Sales Manager",,,,,,,,,,,,""
-"3","Supplier C","Kelley","Madeleine",,"Sales Representative",,,,,,,,,,,,""
-"4","Supplier D","Sato","Naoki",,"Marketing Manager",,,,,,,,,,,,""
-"5","Supplier E","Hernandez-Echevarria","Amaya",,"Sales Manager",,,,,,,,,,,,""
-"6","Supplier F","Hayakawa","Satomi",,"Marketing Assistant",,,,,,,,,,,,""
-"7","Supplier G","Glasson","Stuart",,"Marketing Manager",,,,,,,,,,,,""
-"8","Supplier H","Dunton","Bryn Paul",,"Sales Representative",,,,,,,,,,,,""
-"9","Supplier I","Sandberg","Mikael",,"Sales Manager",,,,,,,,,,,,""
-"10","Supplier J","Sousa","Luis",,"Sales Manager",,,,,,,,,,,,""
+id,_id,company,first_name,,job_title,last_name
+4,63dd100a07d5cbf00b671835,Supplier D,Naoki,,Marketing Manager,Sato
+5,63dd100a07d5cbf00b671836,Supplier E,Amaya,,Sales Manager,Hernandez-Echevarria
+6,63dd100a07d5cbf00b671837,Supplier F,Satomi,,Marketing Assistant,Hayakawa
+7,63dd100a07d5cbf00b671838,Supplier G,Stuart,,Marketing Manager,Glasson
+8,63dd100a07d5cbf00b671839,Supplier H,Bryn Paul,,Sales Representative,Dunton
+2,63dd100a07d5cbf00b67183a,Supplier B,Cornelia,,Sales Manager,Weiler
+9,63dd100a07d5cbf00b67183b,Supplier I,Mikael,,Sales Manager,Sandberg
+3,63dd100a07d5cbf00b67183c,Supplier C,Madeleine,,Sales Representative,Kelley
+1,63dd100a07d5cbf00b67183d,Supplier A,Elizabeth A.,,Sales Manager,Andersen
+10,63dd100a07d5cbf00b67183e,Supplier J,Luis,,Sales Manager,Sousa

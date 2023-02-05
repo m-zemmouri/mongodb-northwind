@@ -1,4 +1,4 @@
-"_id","company","last_name","first_name","email_address","job_title","business_phone","home_phone","mobile_phone","fax_number","address","city","state_province","zip_postal_code","country_region","web_page","notes","attachments"
-"1","Shipping Company A",,,,,,,,,"123 Any Street","Memphis","TN","99999","USA",,,""
-"2","Shipping Company B",,,,,,,,,"123 Any Street","Memphis","TN","99999","USA",,,""
-"3","Shipping Company C",,,,,,,,,"123 Any Street","Memphis","TN","99999","USA",,,""
+id,_id,address,city,company,country_region,,state_province,zip_postal_code
+1,63dd0fe907d5cbf00b67182f,123 Any Street,Memphis,Shipping Company A,USA,,TN,99999
+2,63dd0fe907d5cbf00b671830,123 Any Street,Memphis,Shipping Company B,USA,,TN,99999
+3,63dd0fe907d5cbf00b671831,123 Any Street,Memphis,Shipping Company C,USA,,TN,99999

@@ -1,6 +1,6 @@
-"group_by","display","title","filter_row_source","default"
-"Category","Category","Sales By Category","SELECT DISTINCT [Category] FROM [products] ORDER BY [Category];","0"
-"country_region","Country/Region","Sales By Country","SELECT DISTINCT [country_region] FROM [customers Extended] ORDER BY [country_region];","0"
-"Customer ID","Customer","Sales By Customer","SELECT DISTINCT [Company] FROM [customers Extended] ORDER BY [Company];","0"
-"employee_id","Employee","Sales By Employee","SELECT DISTINCT [Employee Name] FROM [employees Extended] ORDER BY [Employee Name];","0"
-"Product ID","Product","Sales by Product","SELECT DISTINCT [Product Name] FROM [products] ORDER BY [Product Name];","1"
+_id,default,display,filter_row_source,group_by,title
+5f8468a500306c706b79def5,0,Category,SELECT DISTINCT [Category] FROM [products] ORDER BY [Category];,Category,Sales By Category
+5f8468a500306c706b79def6,0,Country/Region,SELECT DISTINCT [country_region] FROM [customers Extended] ORDER BY [country_region];,country_region,Sales By Country
+5f8468a500306c706b79def7,0,Employee,SELECT DISTINCT [Employee Name] FROM [employees Extended] ORDER BY [Employee Name];,employee_id,Sales By Employee
+5f8468a500306c706b79def8,1,Product,SELECT DISTINCT [Product Name] FROM [products] ORDER BY [Product Name];,Product ID,Sales by Product
+5f8468a500306c706b79def9,0,Customer,SELECT DISTINCT [Company] FROM [customers Extended] ORDER BY [Company];,Customer ID,Sales By Customer
